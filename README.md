@@ -1,0 +1,1 @@
+This program is used to modify a mysql database using JPA. It simulates a music playlist and allows the user to add new entities to a playlist database. It hold the values of a song name, artist, genre, and allows you to edit, delete, or add a new song.
